@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h2 align="left">Techs</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -26,13 +22,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Stats</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosensantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
@@ -42,19 +34,13 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/carlosensantos/carlosensantos/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Social Media</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="www.linkedin.com/in/carlosensantos" target="_blank">
