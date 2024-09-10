@@ -60,11 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/carlosensantos/carlosensantos/output/snake.svg" alt="Snake animation" />
-
-###
-
-![snake animation](https://github.com/<carlosensantos>/<carlosensantos>/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
