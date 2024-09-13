@@ -13,8 +13,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
